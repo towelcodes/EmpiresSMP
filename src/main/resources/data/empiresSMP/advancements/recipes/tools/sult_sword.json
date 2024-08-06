@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "sult_team": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "empiressmp:sult_sword"
+    ]
+  }
+}

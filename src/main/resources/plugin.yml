@@ -1,0 +1,29 @@
+name: EmpiresSMP
+version: '1.0-SNAPSHOT'
+main: sh.towel.empiresSMP.EmpiresSMP
+api-version: '1.21'
+depend: [PlaceholderAPI]
+commands:
+  emeffects:
+    usage: /emeffects
+    description: refreshes all online player's effects
+    permission: empires.admin
+  emadvance:
+    usage: /emadvance
+    description: refreshes all online player's recipe advancements
+    permission: empires.admin
+  giveme:
+    usage: /giveme
+    description: give it to me
+    permission: empires.admin
+permissions:
+  empires.sult:
+    default: false
+  empires.dark:
+    default: false
+  empires.free:
+    default: false
+  empires.phoenix:
+    default: false
+  empires.admin:
+    default: op

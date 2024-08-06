@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "free_team": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "empiressmp:free_sword"
+    ]
+  }
+}

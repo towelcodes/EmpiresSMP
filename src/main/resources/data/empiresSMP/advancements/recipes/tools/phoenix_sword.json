@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "phoenix_team": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "empiressmp:phoenix_sword"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "dark_team": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "empiressmp:dark_sword"
+    ]
+  }
+}
